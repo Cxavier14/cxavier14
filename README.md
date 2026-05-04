@@ -8,7 +8,7 @@
 <hr>
 
 <div>
-    <a href="https://github.com/cxavier14">
+    <a href="https://github.com/cxavier14" display="none">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=cxavier14&show_icons=true&theme=radical" />
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxavier14&layout=compact&hide_progress=false&theme=radical"/>
     </a>
@@ -16,7 +16,6 @@
 
 <hr>
 
-#### Tecnologias Estudadas até o momento!
 <div style="display: inline_block"><br>
     <img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">    
