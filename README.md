@@ -7,8 +7,8 @@
 
 <hr>
 
-<div>
-    <a href="https://github.com/cxavier14" display="none">
+<div display="none">
+    <a href="https://github.com/cxavier14">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=cxavier14&show_icons=true&theme=radical" />
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxavier14&layout=compact&hide_progress=false&theme=radical"/>
     </a>
